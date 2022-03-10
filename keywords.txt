@@ -1,0 +1,11 @@
+GY26_I2C_Compass	KEYWORD1
+GY26_Uart_Compass	KEYWORD1
+getTemperatureCelsius	KEYWORD2
+getCompassAngle	KEYWORD2
+getDeclinationAngle	KEYWORD2
+setDeclinationAngle	KEYWORD2
+getCalibrationLevel	KEYWORD2
+startCalibration	KEYWORD2
+endCalibration	KEYWORD2
+setAddressForI2C	KEYWORD2
+doFactoryReset	KEYWORD2
